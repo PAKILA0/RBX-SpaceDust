@@ -3,8 +3,6 @@ Spacedust help achieve sense of speed in games with huge open space that lack of
 
 ## Using SpaceDust
 
-To use Knit, both the server and the client will look like this:
-
 ```lua
 -- Load module:
 local Spacedust = require(LocationOfModule)
