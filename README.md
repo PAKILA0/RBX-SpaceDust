@@ -1,7 +1,7 @@
 # RBX-SpaceDust
 Spacedust help achieve sense of speed in games with huge open space that lack of reference points
 
-<img src="/Demo.jpg?raw=true" width="880">
+<img align="center" src="/Demo.jpg?raw=true" width="880">
 
 ## Using SpaceDust
 
