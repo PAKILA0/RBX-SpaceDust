@@ -11,7 +11,7 @@ local Spacedust = require(LocationOfModule)
 Spacedust:SetupSpacedust(Character)
 
 -- Since this is visual effect, 
-the update is hook onto the heartBeat event, leaving Renderstep to more important stuffs.
+-- the update is hook onto the heartBeat event, leaving Renderstep to more important stuffs.
 -- Start Update:
 Spacedust:Start()
 
